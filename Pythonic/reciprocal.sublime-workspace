@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"step",
+				"stepSize"
+			],
+			[
+				"ste",
+				"stepSize"
+			],
+			[
+				"l",
+				"lowerLim"
+			],
+			[
+				"lim",
+				"limEnter"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"tra",
+				"tragectory"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"fa",
+				"falPosition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/minima/Desktop/git_short/NumMets/README.md",
+			"settings":
+			{
+				"buffer_size": 1133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"set p",
+				"Set Syntax: Python"
+			],
+			[
+				"set syn p",
+				"Set Syntax: Python"
+			],
+			[
+				"set sync++",
+				"Set Syntax: C++"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/Func_input.py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/inte1.py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/trapezoidal(inte2).py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/simpson13(inte3).py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/simpson38(inte4)",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/weddle(inte5).py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/inte1.py.py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/simpsons13(inte3).py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/git/NumMets/Pythonic/bisection.py",
+		"/home/minima/Desktop/git_short/NumMets/Pythonic/reciprocal.py",
+		"/home/minima/Desktop/git_short/MinimaPy/.git/config",
+		"/home/minima/Desktop/git_short/Minima-C/.git/config",
+		"/home/minima/Desktop/git_short/NumMets/.git/config",
+		"/home/minima/Desktop/git_short/.git/config",
+		"/home/minima/Desktop/git_short/MinimaPy/.git/COMMIT_EDITMSG",
+		"/home/minima/Desktop/git_short/NumMets/README.md",
+		"/home/minima/Desktop/git_short/NumMets/Pythonic/README.md",
+		"/home/minima/Desktop/git_short/NumMets/c++ ish/readme.md",
+		"/home/minima/Desktop/git_short/MinimaPy/README.md",
+		"/home/minima/Desktop/git_short/Minima-C/Puzzles/Readme.md",
+		"/home/minima/Desktop/git_short/Minima-C/README.md",
+		"/home/minima/Desktop/git_short/Minima-C/misc codes/readme.md",
+		"/home/minima/Desktop/throw it/throw_it.cpp",
+		"/home/minima/Desktop/mountDrives.sh",
+		"/home/minima/Desktop/git_short/MinimaPy/Algos and stuff/README.md",
+		"/home/minima/Desktop/git_short/TrigonaShell/Dotfiles/rcReload.sh",
+		"/home/minima/Desktop/git_short/TrigonaShell/Dotfiles/.bashrc",
+		"/home/minima/Desktop/disp.c",
+		"/home/minima/Desktop/reciprocal.py",
+		"/home/minima/Desktop/bisection.py",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/shivam/bignum.c",
+		"/home/minima/Desktop/pe26.cpp",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/shivam/alpha.txt",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/Desktop/ttt.c",
+		"/media/minima/63a6a370-b37f-4aca-94d1-42eb9140f6de/Desktop/html scraping/parse1.py",
+		"/home/minima/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/minima/Desktop/c/PERIOD1.c",
+		"/home/minima/Desktop/c/nqueens.c",
+		"/home/minima/.config/sublime-text-3/Packages/User/c.sublime-build",
+		"/home/minima/Desktop/git_short/Minima-C/Puzzles/nqueens.c",
+		"/home/minima/Desktop/c/nqueen.c",
+		"/home/minima/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"coef"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/minima/Desktop/git_short/NumMets/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1029,
+								1029
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "reciprocal.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

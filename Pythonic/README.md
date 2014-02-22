@@ -7,14 +7,29 @@ Bisection Method
 
 Method False Position
 
+Rectangle rule
+
+Trapezoidal rule
+
+Simpson's 1/3rd
+
+Simpson's 3/8th
+
+Other Numerical Methods
 
 TODO
 --------------------
 
 Newton-Raphson method
 
-Differentiation
+Numerical Differentiation
 
-Integration
+picard's method
+
+Taylor's series method
+
+Runge's method
+
+Runge-kutta method
 
 Interpolation methods

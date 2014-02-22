@@ -1,7 +1,17 @@
 NumMets
 =======
 
-Numerical Methods
+Numerical Integration
+-------------
+Rectangle rule (Python)
+
+Trapezoidal rule (Python)
+
+Simpson's 1/3rd (Python)
+
+Simpson's 3/8th (Python)
+
+Other Numerical Methods
 -------------
 Reciprocal of a number upto a given accuracy (Python)
 
@@ -56,15 +66,12 @@ Interpolation methods
 
 Newton-Raphson method
 
-Trapezium rule
+Numerical Differentiation
 
-Simpson's 1/3rd rule
+picard's method
 
-Simpson's 3/8th rule
+Taylor's series method
 
-Boole's rule
+Runge's method
 
-Weddle's rule
-
-Midris' rule (?)
-
+Runge-kutta method

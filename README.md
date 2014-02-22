@@ -1,8 +1,6 @@
 NumMets
 =======
 
-Numerical Integration
--------------
 |NAME| Language(s)|
 |:---------------|----------------------|
 |**Numerical Integration-**|

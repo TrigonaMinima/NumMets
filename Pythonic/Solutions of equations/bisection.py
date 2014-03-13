@@ -1,5 +1,7 @@
-# 1. Bisection method
+# 1. Bisection method 
+#               x1 = (a+b)/2
 # 2. method of false position
+#               x1 = [ a*f(b) - b*f(a) ] / [ f(b) - f(a) ]
 
 import Func_input as F
 

@@ -17,8 +17,10 @@ def integral(lowerLim, upperLim):
                 i += h
         return val
 
-deg = []
-coef = []
-F.enter(deg, coef)
-l, u = limEnter()
-print("integral value is : ", integral(l, u))
+
+if __name__ == __main__:
+        deg = []
+        coef = []
+        F.enter(deg, coef)
+        l, u = limEnter()
+        print("integral value is : ", integral(l, u))

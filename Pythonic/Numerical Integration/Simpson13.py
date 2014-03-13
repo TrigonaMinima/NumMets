@@ -34,9 +34,10 @@ def simpson13(lowerLim, upperLim, stepSize):
         val/=3
         return val
 
-deg = []
-coef = []
-F.enter(deg, coef)
-l, u, h = limEnter()
-print("integral value is : ", simpson13(l, u, h))
+if __name__ == __main__:
+        deg = []
+        coef = []
+        F.enter(deg, coef)
+        l, u, h = limEnter()
+        print("integral value is : ", simpson13(l, u, h))
 

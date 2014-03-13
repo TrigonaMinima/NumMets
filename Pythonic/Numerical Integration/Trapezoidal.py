@@ -30,9 +30,10 @@ def trapezoidal(lowerLim, upperLim, stepSize):
         val/=2
         return val
 
-deg = []
-coef = []
-F.enter(deg, coef)
-l, u, h = limEnter()
-print("integral value is : ", trapezoidal(l, u, h))
+if __name__ == __main__:
+        deg = []
+        coef = []
+        F.enter(deg, coef)
+        l, u, h = limEnter()
+        print("integral value is : ", trapezoidal(l, u, h))
 

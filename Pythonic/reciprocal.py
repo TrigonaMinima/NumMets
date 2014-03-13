@@ -12,7 +12,8 @@ def reciprocal(num) :
                         break
                 x = y
 
-a  =  eval(input("Enter the number : "))
-print (a)
-print (1/a)
-print (reciprocal(a))
+if __name__ == __main__:
+        a  =  eval(input("Enter the number : "))
+        print (a)
+        print (1/a)
+        print (reciprocal(a))

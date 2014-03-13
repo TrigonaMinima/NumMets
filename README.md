@@ -8,10 +8,12 @@ NumMets
 | Trapezoidal rule |Python |
 | Simpson's 1/3rd |Python |
 | Simpson's 3/8th |Python |
-|**Other Numerical Methods**|
-| Reciprocal of a number upto a given accuracy | Python|
+| Boole's rule |Python|
+|**Solutions of Equations**|
 | Bisection Method |Python|
 | Method False Position | Python |
+|**Other Numerical Methods**|
+| Reciprocal of a number upto a given accuracy | Python|
 |**Crypt**|
 | Excess-3 code | C |
 |**Matrix**|

@@ -30,7 +30,7 @@ def trapezoidal(lowerLim, upperLim, stepSize):
         val/=2
         return val
 
-if __name__ == __main__:
+if __name__ == '__main__':
         deg = []
         coef = []
         F.enter(deg, coef)

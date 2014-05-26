@@ -14,6 +14,7 @@ NumMets
 | Method False Position | Python |
 |**Other Numerical Methods**|
 | Reciprocal of a number upto a given accuracy | Python|
+| Square root (iterative) | Python |
 |**Crypt**|
 | Excess-3 code | C |
 |**Matrix**|
@@ -33,6 +34,7 @@ NumMets
 | Insertion Sort | C |
 | Merge Sort | C |
 | Merge with insertion sort | C |
+| Radix sort | C |
 
 
 TODO
